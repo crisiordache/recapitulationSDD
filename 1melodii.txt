@@ -1,0 +1,6 @@
+1,Shakira,Loca,203
+2,Dua Lipa,Houdini,189
+3,Troye Sivan,One of Your Girls,154
+4,Sabrina Carpenter,Espresso,197.5
+5,Olivia Rodrigo,vampire,185
+6,Sabrina Carpenter,Please Please Please,180
