@@ -121,6 +121,22 @@ Ceai cautaDupaDenumire(HashTable tabela, const char* denumire) {
 	return initializareCeai(-1, "", 0);
 }
 
+HashTable stergereHashTable(HashTable tabela) {
+	for (int i = 0;i < tabela.dim;i++) {
+		Nod* p = tabela.vector[i];
+		while (p) {
+			Nod* aux = p->next;
+			free(p->info.denumire);
+			free(p);
+			p = aux;
+		}
+	}
+	free(tabela.vector);
+	tabela.vector = NULL;
+	tabela.dim = 0;
+	return tabela;
+}
+
 int main() {
 	Ceai c1 = initializareCeai(1, "Frosty Afternoon", 2); //3
 	Ceai c2 = initializareCeai(2, "Musetel", 0.4); //2
@@ -152,6 +168,10 @@ int main() {
 	Ceai cautat4 = cautaDupaDenumire(tabela, "Menta");
 	printf("\nCeaiul cautat este: ");
 	afisareCeai(cautat4);
+
+	tabela = stergereHashTable(tabela);
+	printf("\nTabela dupa stergere:\n");
+	afisareHashTable(tabela);
 
 	return 0;
 }
