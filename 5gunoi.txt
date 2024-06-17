@@ -1,0 +1,6 @@
+5,Hartie,200
+10,Plastic,150
+12,Sticla,300
+2,Menajer,250
+4,Carton,100
+1,Metal,150
