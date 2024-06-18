@@ -1,0 +1,5 @@
+5,Hotel Rin,2,Gigel,559.9
+10,Hotel Ibis,1,Marian,250
+2,Hotel Hotel,2,Rodica,900
+4,Four Seasons Hotel,1,Meee,521.5
+1,Hotel Rin,1,Marian,390
