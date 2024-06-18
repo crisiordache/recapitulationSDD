@@ -1,0 +1,23 @@
+9
+0,Vector
+1,Matrice
+2,Lista Simpla
+3,Lista Dubla
+4,Hash Table
+5,Heap
+6,Arbore binar de cautare
+7,Arbore AVL
+8,Graf
+12
+0,1
+0,4
+0,5
+1,4
+1,8
+2,3
+2,4
+2,6
+2,7
+2,8
+5,6
+6,7
