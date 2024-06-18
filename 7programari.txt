@@ -1,0 +1,5 @@
+01-01-2024,Ion Popescu,1.5,Detartraj,200
+02-01-2024,Maria Ionescu,2.0,Albire dentara,300
+01-01-2024,George Enescu,1.0,Control periodic,100
+03-01-2024,Ana Marcu,1.5,Implant dentar,1200
+02-01-2024,Florin Georgescu,2.5,Plomba dentara,250
