@@ -1,0 +1,10 @@
+1,2,Paracetamol,3,10.3,5,Algocalmin,4,25.9,6,Cris
+2,3,Ibuprofen,2,15.4,10,Aspirin,1,12.3,20,Amoxicillin,5,50.0,30,John Doe
+3,1,Ciprofloxacin,2,30.5,50,Cris
+4,4,Ibuprofen,3,5.0,25,Aspirin,2,20.1,10,Simvastatin,1,30.0,15,Warfarin,1,22.0,5,Mark Johnson
+5,2,Omeprazole,1,18.0,10,Ibuprofen,3,8.0,20,Jane Doe
+6,3,Atorvastatin,2,25.0,40,Aspirin,1,12.5,30,Losartan,2,15.0,20,Cris
+7,1,Losartan,1,22.5,10,Sarah Lee
+8,2,Prednisone,5,18.5,25,Allopurinol,2,10.5,30,Anna White
+9,3,Ibuprofen,2,5.5,50,Aspirin,1,15.5,40,Losartan,4,3.0,10,Cris
+10,4,Ibuprofen,3,28.0,35,Valsartan,2,14.0,15,Spironolactone,1,10.0,5,Alendronate,1,20.0,25,Mary Green
