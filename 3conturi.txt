@@ -1,0 +1,5 @@
+1,Cris,200,RON
+2,Marian,340,BITCOIN
+4,Iulia,1020,EURO
+5,Ionut,209,ETH
+3,Sabina,210.5,EURO
