@@ -1,0 +1,7 @@
+file5.txt,1234,1,01-01-2023,John Doe
+file2.doc,5678,0,15-02-2023,Jane Smith
+file3.pdf,9123,1,20-03-2023,Bob Johnson
+file8.jpg,4567,0,05-04-2023,Alice Brown
+file1.png,8910,1,12-05-2023,Chris White
+file10.mp4,1357,0,18-06-2023,Susan Black
+file7.zip,2468,1,25-07-2023,Tom Green
