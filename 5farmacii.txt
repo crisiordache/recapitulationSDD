@@ -1,0 +1,6 @@
+51,Farmacia Sanatatea,320000.00,Elena Ionescu,15,Cluj-Napoca
+24,Farmacia Liliacului,150000.75,Mihai Vasile,9,Iasi
+34,Farmacia Natura,400000.20,Daniela Popa,20,Timisoara
+63,Farmacia Rozmarin,280000.40,Cristina Marinescu,13,Iasi
+90,Farmacia Esperanta,350000.60,Alexandru Radu,18,Brasov
+92,Farmacia Centrala,500000.10,Anca Georgescu,25,Iasi
