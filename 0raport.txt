@@ -1,0 +1,7 @@
+1,12,3,Hemoglobina,13.5,14.2,Colesterol,150.0,160.5,Glicemie,70.0,90.3
+2,3,2,Hemoglobina,13.0,12.8,Glicemie,70.0,65.2
+3,5,4,Hemoglobina,13.5,13.9,Colesterol,180.0,170.2,Glicemie,70.0,69.5,Trigliceride,150.0,155.0
+4,15,3,Hemoglobina,13.0,14.1,Colesterol,200.0,195.5,Uree,30.0,32.2
+5,12,2,Glicemie,70.0,75.3,Trigliceride,150.0,160.1
+6,3,2,Hemoglobina,13.0,12.8,Glicemie,70.0,65.2
+3,5,4,Hemoglobina,13.5,13.9,Colesterol,180.0,170.2,Glicemie,70.0,69.5,Trigliceride,150.0,155.0
